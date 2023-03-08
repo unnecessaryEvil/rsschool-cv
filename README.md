@@ -1,1 +1,2 @@
-https://unnecessaryevil.github.io/rsschool-cv/cv
+ https://unnecessaryevil.github.io/rsschool-cv/
+
