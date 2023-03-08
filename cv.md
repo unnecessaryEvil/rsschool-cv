@@ -21,4 +21,8 @@ function createPhoneNumber(numbers){
     number += numbers[i];
   };
   return number;
-} ```
+}
+```
+6. None.
+7. No software engineering or related education as of now. Completed Foundations of Odin Project.
+8. Presumably C2 (not certified yet), Bachelor of Linguistics
