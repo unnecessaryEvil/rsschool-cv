@@ -1,3 +1,4 @@
+![profile picture](\assets\images\me.jpg)
 1. Kapanin Ivan
 2. * Discord (RSSchool): KM (unnecessaryEvil)
    * e-mail: wazilits@gmail.com
